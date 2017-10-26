@@ -1,0 +1,5 @@
+addition - button1
+subtraction - button7
+multiplication - button8
+division - button9
+squaring - button10

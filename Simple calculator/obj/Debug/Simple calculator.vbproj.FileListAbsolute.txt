@@ -1,0 +1,11 @@
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\bin\Debug\Simple calculator.exe.config
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\bin\Debug\Simple calculator.exe
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\bin\Debug\Simple calculator.pdb
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\bin\Debug\Simple calculator.xml
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\obj\Debug\Simple calculator.vbprojResolveAssemblyReference.cache
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\obj\Debug\Simple_calculator.Form1.resources
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\obj\Debug\Simple_calculator.Resources.resources
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\obj\Debug\Simple calculator.vbproj.GenerateResource.Cache
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\obj\Debug\Simple calculator.exe
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\obj\Debug\Simple calculator.xml
+C:\Users\131142\Desktop\VB\Simple calculator\Simple calculator\obj\Debug\Simple calculator.pdb
